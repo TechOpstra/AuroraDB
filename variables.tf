@@ -1,7 +1,7 @@
 variable "project_name" {
   type        = string
   description = "A unique name for the project"
-  default     = "auroradb"
+  default     = "auroradb1"
 }
 
 variable "region" {
